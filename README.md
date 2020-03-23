@@ -1,1 +1,5 @@
-# simulation_project
+# Simulation Project
+## 簡介
+模擬與統計計算的期末作業，我們分析了台灣106年的交通事故。
+## 資料庫來源
+台灣內政部警政署網站（連結待補）
